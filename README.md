@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-dDemeter-fetch is a member of the demeter family, which is responsible for fetching and processing on-chain data. It provides standardized data for backtesting and defi research.
+Demeter-fetch is a member of the demeter family, which is responsible for fetching and processing on-chain data. It provides standardized data for backtesting and defi research.
 ```mermaid
 graph TD;
    demeter-fetch([demeter-fetch]) --> demeter([demeter]);
